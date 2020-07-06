@@ -8,6 +8,7 @@ public class Remo {
 	public void run()
 	{
 		Reporter.log("test run",true);
+		Reporter.log("test run2",true);
 	}
 
 }
