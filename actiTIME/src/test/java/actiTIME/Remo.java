@@ -9,6 +9,7 @@ public class Remo {
 	{
 		Reporter.log("test run",true);
 		Reporter.log("test run2",true);
+		Reporter.log("test run3",true);
 	}
 
 }
